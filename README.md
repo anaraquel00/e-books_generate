@@ -18,13 +18,10 @@ Bem-vindo ao **E-books_generate**, um repositório dedicado à criação de livr
 ## 📦 Estrutura do Repositório
 
 📂 E-books_generate/
-├── 📁 prompts/
-│ ├── capa_java_intermediario.md
-│ ├── capa_python_avancado.md
-│ └── outros_prompts.md
+├── 📁 Lista de e-books/
+│ ├── Java Intermediario.pdf
 ├── 📁 images/
 │ ├── capa_java_intermediario.png
-│ ├── capa_python_avancado.png
 │ └── outros_ebooks.png
 ├── 📁 docs/
 │ └── guia_de_uso.md
