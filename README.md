@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# e-books_generate
-=======
 # E-books generate
 
 Bem-vindo ao **E-books_generate**, um repositório dedicado à criação de livros digitais utilizando a engenharia de prompts, criatividade e inovação. Este projeto visa explorar a geração automatizada de capas, conteúdos e elementos visuais para e-books, aproveitando o poder da IA generativa para impulsionar a produtividade e a qualidade de publicações digitais.
@@ -54,4 +51,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 Sinta-se à vontade para explorar, criar e inovar com o **E-books_generate**! 🚀
 
->>>>>>> 90f3b70 (add e-books)
